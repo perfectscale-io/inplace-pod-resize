@@ -1,4 +1,4 @@
-apiVersion: k3d.io/v1alpha3 
+apiVersion: k3d.io/v1alpha3
 kind: Simple 
 name: pod-resize 
 servers: 1 # same as `--servers 1`
